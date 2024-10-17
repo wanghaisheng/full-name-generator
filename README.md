@@ -1,4 +1,4 @@
-# [Full Name Generator](https://fullnamegenerator.com) - Generate Random Names
+# [shopconnan Full Name Generator](https://fullnamegenerator.com) - Generate Random Names
 
 [![npm-version]][npm] [![npm-downloads]][npm]
 
